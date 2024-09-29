@@ -16,7 +16,7 @@ const Hero = () => {
             Hi, I am <span className="text-[#915eff]">Walid</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Currently enrolled in a Bachelor of Computer Engineering 💻 at McGill University 🎓, my interests range from the fields of study of my degree (hardware/software development 👨🏽‍💻, telecommunications 📡, robotics 🤖, medical technologies 🫀, automotive and aerospace industry 🚀) to anything that involves creation.
+          Computer Engineering student at McGill University 💻
 
           </p>
         </div>
