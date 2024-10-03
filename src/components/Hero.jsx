@@ -16,7 +16,7 @@ const Hero = () => {
             Welcome to my <span className="text-[#915eff]">Portfolio!</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Made by a Computer Engineering Student at McGill University 💻
+          Made by Walid Aissa, Computer Eng. Student at McGill University💻
 
           </p>
         </div>
