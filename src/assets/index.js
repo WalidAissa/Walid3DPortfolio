@@ -27,7 +27,7 @@ import nodejs from './tech/nodejs.png';
 import pandas from './tech/pandas.png';
 import postgresql from './tech/postgresql.png';
 import postman from './tech/postman.png';
-import powerbi from './tech/powerbi.png';
+import powerbi from './tech/PowerBI.png';
 import python from './tech/python.png';
 import pytorch from './tech/pytorch.png';
 import reactjs from './tech/reactjs.png';
