@@ -92,6 +92,7 @@ import {
     { name: "React JS", icon: reactjs },
     { name: "Redux Toolkit", icon: redux },
     { name: "Tailwind CSS", icon: tailwind },
+    { name: "Angular", icon: angular },
     { name: "Node JS", icon: nodejs },
     { name: "MongoDB", icon: mongodb },
     { name: "Three JS", icon: threejs },
