@@ -48,9 +48,10 @@ import robotics from "./company/robotics.png";
 import mais from "./company/mais.png";
 import penrose from "./company/penrose.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
+import azza from "./azza.png";
+import coursechamp from "./coursechamp.png";
+import plms from "./plms.png";
 
 export {
   logo,
@@ -77,9 +78,9 @@ export {
   robotics,
   mais,
   penrose,
-  carrent,
-  jobit,
-  tripguide,
+  azza,
+  coursechamp,
+  plms,
   angular,
   aws,
   azure,

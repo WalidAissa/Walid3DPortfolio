@@ -23,9 +23,9 @@ import {
   robotics,
   mais,
   penrose,
-  carrent,
-  jobit,
-  tripguide,
+  azza,
+  coursechamp,
+  plms,
   angular,
   aws,
   azure,
@@ -190,67 +190,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Azza",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Q/A conversational agent leveraging the LLM BERT for natural language processing and question answering, fine-tuned on the SQuAD 2.0 Dataset to achieve human-level performance",
       tags: [
+        {
+          name: "pytorch",
+          color: "blue-text-gradient",
+        },
         {
           name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "api",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: azza,
+      source_code_link: "https://github.com/WalidAissa/Azza",
     },
     {
-      name: "Job IT",
+      name: "CourseChamp",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Have you ever been unsure about your next semester of ECSE courses? ClassChamp is the one-stop-shop for all your course concerns. Every ECSE course will have an individual page with the official course description, with associated ratings such as difficulty and tutorial helpfulness, tags, student reviews, a typical grade breakdown and grade breakdown by major.",
       tags: [
         {
-          name: "react",
+          name: "springboot",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "vue.js",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "postgresql",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: coursechamp,
+      source_code_link: "https://github.com/WalidAissa/CourseChamp",
     },
     {
-      name: "Trip Guide",
+      name: "Parking Lot Management System",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Web application that aims to provide a fully functional Parking Lot Management System to a client, which would be the owner of the parking lot, so that it helps them coordinate tasks related to spot reservations, parking lot services, hiring of employees to name a few.",
       tags: [
         {
-          name: "nextjs",
+          name: "springboot",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "vue.js",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "postgresql",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: plms,
+      source_code_link: "https://github.com/WalidAissa/Parking-Lot-Management-System",
     },
   ];
   
