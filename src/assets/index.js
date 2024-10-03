@@ -49,7 +49,7 @@ import mais from "./company/mais.png";
 import penrose from "./company/penrose.png";
 
 
-import azza from "./azza.png";
+import azza from "./Azza.png";
 import coursechamp from "./coursechamp.png";
 import plms from "./plms.png";
 
