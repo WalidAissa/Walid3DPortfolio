@@ -67,19 +67,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Computer Engineering Third Year Representative",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "McGill Product Management Association Vice President",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Trustee of the Engineering Undergraduate Society",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Associate Consultant in Web3",
       icon: creator,
     },
   ];
