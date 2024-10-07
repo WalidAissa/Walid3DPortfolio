@@ -60,6 +60,10 @@ import {
       title: "Work",
     },
     {
+      id: "leadership",
+      title: "Leadership",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -67,7 +71,7 @@ import {
   
   const services = [
     {
-      title: "Computer Engineering Third Year Representative",
+      title: "Computer Engineering Third-Year Representative",
       icon: web,
     },
     {
@@ -80,6 +84,25 @@ import {
     },
     {
       title: "Associate Consultant in Web3",
+      icon: creator,
+    },
+  ];
+
+  const info = [
+    {
+      title: "3.9 CGPA Third-Year Engineering Student",
+      icon: web,
+    },
+    {
+      title: "Mitacs Research Scholarship Recipient",
+      icon: mobile,
+    },
+    {
+      title: "Motorola Foundation Scholarship Recipient",
+      icon: backend,
+    },
+    {
+      title: "Dean's Honour List Nominee",
       icon: creator,
     },
   ];
@@ -254,4 +277,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, testimonials, projects, info };
