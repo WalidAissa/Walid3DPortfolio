@@ -48,6 +48,13 @@ import {
   unity,
   vhdl,
   vuejs,
+  deans,
+  ecsess,
+  eus,
+  mcgill,
+  mitacs,
+  motorola,
+  mpma,
   } from "../assets";
   
   export const navLinks = [
@@ -72,38 +79,38 @@ import {
   const services = [
     {
       title: "Computer Engineering Third-Year Representative",
-      icon: web,
+      icon: ecsess,
     },
     {
       title: "McGill Product Management Association Vice President",
-      icon: mobile,
+      icon: mpma,
     },
     {
       title: "Trustee of the Engineering Undergraduate Society",
-      icon: backend,
+      icon: eus,
     },
     {
       title: "Associate Consultant in Web3",
-      icon: creator,
+      icon: penrose,
     },
   ];
 
   const info = [
     {
       title: "3.9 CGPA Third-Year Engineering Student",
-      icon: web,
+      icon: mcgill,
     },
     {
       title: "Mitacs Research Scholarship Recipient",
-      icon: mobile,
+      icon: mitacs,
     },
     {
       title: "Motorola Foundation Scholarship Recipient",
-      icon: backend,
+      icon: motorola,
     },
     {
       title: "Dean's Honour List Nominee",
-      icon: creator,
+      icon: deans,
     },
   ];
   

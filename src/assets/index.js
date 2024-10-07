@@ -3,6 +3,16 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
+
+import deans from "./deans.png";
+import mcgill from "./mcgill.svg";
+import ecsess from "./ecsess.jpeg";
+import eus from "./eus.png";
+import mitacs from "./mitacs.png";
+import motorola from "./motorola.png";
+import mpma from "./mpma.png";
+
+
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -103,4 +113,11 @@ export {
   unity,
   vhdl,
   vuejs,
+  deans,
+  ecsess,
+  eus,
+  mcgill,
+  mitacs,
+  motorola,
+  mpma,
 };
