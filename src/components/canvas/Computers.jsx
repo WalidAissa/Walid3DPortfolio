@@ -14,7 +14,7 @@ const computer = useGLTF('./desktop_pc/scene.gltf')
       <hemisphereLight intensity={0.75} groundColor="black"/>
       <pointLight intensity={2} position={[-0.4,-0.8,0]}/>
       <spotLight position={[0,0,0]} angle={1.5} penumbra={1} intensity={1} castShadow shadow-mapSize={1024}/>
-      <primitive object={computer.scene} scale={isMobile ? 0.7 : 1} position={isMobile ? [0, -3, 2.2] : [0,-4.75,-1.5]} rotation={[-0.01,-0.2,-0.1]}></primitive>
+      <primitive object={computer.scene} scale={isMobile ? 0.2 : 1} position={isMobile ? [0, -3, 2.2] : [0,-4.75,-1.5]} rotation={[-0.01,-0.2,-0.1]}></primitive>
     </mesh>
   )
 }
@@ -37,7 +37,7 @@ const ComputersCanvas = () => {
     return () => {
       mediaQuery.removeEventListener('change', handleMediaQueryChange)
     }
-  })
+  }, [])
 
   return(
     <Canvas
