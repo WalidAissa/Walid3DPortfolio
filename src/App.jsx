@@ -10,8 +10,8 @@ function App() {
         <Navbar/>
         <Hero/>
       </div>
-        <Experience/>
         <About/>
+        <Experience/>
         <Tech/>
         <Works/>
         <Leadership/>

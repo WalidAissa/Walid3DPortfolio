@@ -166,6 +166,18 @@ import {
       ],
     },
     {
+      title: "Associate Consultant",
+      company_name: "Penrose Partners",
+      icon: penrose,
+      iconBg: "#E6DEDD",
+      date: "May 2024 - Current",
+      points: [
+        "Conducted market research and analysis for high-profile clients such as the Government of Bermuda, focusing on blockchain technology and decentralized finance (DeFi) sectors",
+  "Collaborated with 3iQ, a leading Canadian asset management firm, to develop marketing and outreach plans for their blockchain financial products, driving a 30% increase in institutional inquiries and raising AUM by $15M",
+  "Supported Nayms, an innovative insurance platform on the blockchain, in refining their go-to-market strategy, resulting in a 40% improvement in user acquisition and projected $50M in insured assets by Q4 2024"
+      ],
+    },
+    {
       title: "MAIS 202 Member",
       company_name: "McGill Artificial Intelligence Society",
       icon: mais,
@@ -177,18 +189,7 @@ import {
         "Applied advanced machine learning techniques, including regression analysis, classification algorithms, neural networks, and transformers, to solve real-world problems and enhance predictive modeling capabilities"
       ],
     },
-    {
-      title: "Associate Consultant",
-      company_name: "Penrose Partners",
-      icon: penrose,
-      iconBg: "#E6DEDD",
-      date: "May 2024 - Current",
-      points: [
-        "Conducted market research and analysis for high-profile clients such as the Government of Bermuda, focusing on blockchain technology and decentralized finance (DeFi) sectors",
-  "Collaborated with 3iQ, a leading Canadian asset management firm, to develop marketing and outreach plans for their blockchain financial products, driving a 30% increase in institutional inquiries and raising AUM by $15M",
-  "Supported Nayms, an innovative insurance platform on the blockchain, in refining their go-to-market strategy, resulting in a 40% improvement in user acquisition and projected $50M in insured assets by Q4 2024"
-      ],
-    }
+    
   ];
   
   const testimonials = [
