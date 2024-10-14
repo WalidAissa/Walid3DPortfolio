@@ -123,6 +123,7 @@ import {
     //{ name: "Redux Toolkit", icon: redux },
     //{ name: "Tailwind CSS", icon: tailwind },
     { name: "Angular", icon: angular },
+    { name: "VueJS", icon: vuejs },
     { name: "Node JS", icon: nodejs },
     //{ name: "MongoDB", icon: mongodb },
     //{ name: "Three JS", icon: threejs },
@@ -142,14 +143,13 @@ import {
     //{ name: "PowerBI", icon: powerbi },
     //{ name: "Postman", icon: postman },
     //{ name: "Jacoco", icon: jacoco },
-    { name: "Scikit", icon: scikit },
+    //{ name: "Scikit", icon: scikit },
     //{ name: "Pandas", icon: pandas },
     { name: "PyTorch", icon: pytorch },
     //{ name: "Blender", icon: blender },
     //{ name: "Cinema 4D", icon: cinema4d },
     //{ name: "Unity", icon: unity },
     //{ name: "VHDL", icon: vhdl },
-    { name: "VueJS", icon: vuejs },
   ];
   
   const experiences = [
