@@ -1,5 +1,6 @@
 import React from 'react'
 import {BallCanvas} from "./canvas"
+import {ChestCanvas} from "./canvas"
 import { SectionWrapper } from '../hoc'
 import { technologies } from '../constants/constants'
 import {motion} from "framer-motion"
@@ -29,7 +30,23 @@ const Tech = () => {
             </motion.div>
           </div>
         ))}
+        
       </div>
+      
+      
+      <div className="flex flex-row flex-wrap justify-center w-full">
+      <h3 className={`"text-white font-black md:text-[30px] sm:text-[20px] xs:text-[10px]" text-center pt-20 py-5`}>
+            Click on the chest to see more technologies I've mastered!
+      </h3>
+        <div className="bg-tertiary rounded-2xl sm:w-[260px] w-full h-full shadow-card green-pink-gradient p-[1px]">
+          <div className='bg-tertiary rounded-[20px] py-5 px-12 h-[200px] flex justify-evenly items-center flex-col' onClick={() => window.open("https://www.linkedin.com/in/walid-aissa-42b26224a/", "blank")}> 
+          <ChestCanvas/>
+          </div>
+        </div>
+      </div>
+      
+      
+      
       
       </>
   )

@@ -67,10 +67,6 @@ import {
       title: "Work",
     },
     {
-      id: "leadership",
-      title: "Leadership",
-    },
-    {
       id: "contact",
       title: "Contact",
     },
@@ -124,7 +120,7 @@ import {
     //{ name: "Tailwind CSS", icon: tailwind },
     { name: "Angular", icon: angular },
     { name: "Vue.js", icon: vuejs },
-    { name: "NodeJS", icon: nodejs },
+    //{ name: "NodeJS", icon: nodejs },
     //{ name: "MongoDB", icon: mongodb },
     //{ name: "Three JS", icon: threejs },
     //{ name: "Git", icon: git },
