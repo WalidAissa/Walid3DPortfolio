@@ -39,9 +39,11 @@ const Tech = () => {
             Click on the chest to see more technologies I've mastered!
       </h3>
         <div className="bg-tertiary rounded-2xl sm:w-[260px] w-full h-full shadow-card green-pink-gradient p-[1px]">
-          <div className='bg-tertiary rounded-[20px] py-5 px-12 h-[200px] flex justify-evenly items-center flex-col' onClick={() => window.open("https://www.linkedin.com/in/walid-aissa-42b26224a/", "blank")}> 
+        <a href="/Resume_Walid_Aissa_v2024.pdf" download="Resume_Walid_Aissa.pdf">
+          <div className='bg-tertiary rounded-[20px] py-5 px-12 h-[200px] flex justify-evenly items-center flex-col'> 
           <ChestCanvas/>
           </div>
+        </a>
         </div>
       </div>
       
