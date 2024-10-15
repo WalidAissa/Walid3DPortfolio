@@ -35,8 +35,8 @@ const Tech = () => {
       
       
       <div className="flex flex-row flex-wrap justify-center w-full">
-      <h3 className={`"text-white font-black md:text-[30px] sm:text-[20px] xs:text-[10px]" text-center pt-20 py-5`}>
-            Click on the chest to see more technologies I've mastered!
+      <h3 className={`"text-white font-black md:text-[40px] sm:text-[20px] xs:text-[10px]" text-center pt-40 py-5`}>
+            Click on the chest to download my full Resume!
       </h3>
         <div className="bg-tertiary rounded-2xl sm:w-[260px] w-full h-full shadow-card green-pink-gradient p-[1px]">
         <a href="/Resume_Walid_Aissa_v2024.pdf" download="Resume_Walid_Aissa.pdf">
